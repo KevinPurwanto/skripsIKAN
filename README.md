@@ -8,7 +8,9 @@ This is the source code and project setup for **skripsIKAN**, a fishing game bui
    🔗 [Download Game Content & Assets](https://drive.google.com/drive/folders/18pkE_vY-pc66yFEfuOlT03nOICTN4wEi?usp=sharing)
 2. Open `skripsIKAN.uproject` in Unreal Engine 5.
 3. For Game use this link instead
-    itch.io : https://kevinpur.itch.io/skripsikan
-    drive : https://drive.google.com/drive/folders/1cyUSmX1QBrIFwIhtuxGgy17jsqclPRBq?usp=sharing
+
+   itch.io : https://kevinpur.itch.io/skripsikan
+
+   drive : https://drive.google.com/drive/folders/1cyUSmX1QBrIFwIhtuxGgy17jsqclPRBq?usp=sharing
 ---
 
